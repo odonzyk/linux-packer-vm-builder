@@ -1,0 +1,7 @@
+- hosts: localhost
+  tasks:
+    - name: Install fail2ban
+      become: yes
+      package:
+        name: fail2ban
+        state: present
