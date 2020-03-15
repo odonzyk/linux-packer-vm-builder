@@ -1,5 +1,5 @@
 # Linux VM builder
-Automatically create, launch and provision new linux VM's in our vSphere cluster. 
+Automatically create, launch and provision new linux VM's with packer in a vSphere cluster and ansible included
 
 ## How it works
 - You launch packer from the command line
