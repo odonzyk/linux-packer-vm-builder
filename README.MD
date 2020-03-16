@@ -34,6 +34,6 @@ Access the VM over SSH using a user called 'debian' with password 'insecure', it
 # References
 Debian 10 (Buster) example preseed: https://www.debian.org/releases/buster/example-preseed.txt
 
-## Thanks to-> !
-Our Coworker Wouter Westenbrink, for the great summerize of search results out of the internet and his own adopt ideas for this reporitory!  
+## Thanks also to ->
+Coworker Wouter Westenbrink, for the great summerize of search results out of the internet and his own adopt ideas for this reporitory in the devops team!  
 Hope we have a lot projects together in the future!
